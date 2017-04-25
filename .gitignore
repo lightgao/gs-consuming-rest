@@ -12,6 +12,8 @@ dependency-reduced-pom.xml
 *.sublime-*
 /scratch
 .gradle
+README.html
 .idea
 *.iml
-README.html
+.env
+.DS_Store
